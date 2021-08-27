@@ -29,7 +29,7 @@ const profileItr = profileIterator(data);
 
 // Call first profile
 
-nextProfile()
+nextProfile();
 
 document.getElementById('next').addEventListener('click', nextProfile);
 
